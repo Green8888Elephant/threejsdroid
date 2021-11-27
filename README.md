@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The flying drone:
+![image](https://user-images.githubusercontent.com/53175180/143720542-22851f0f-56e6-4440-a3c3-6fa10e089bcf.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
